@@ -1,6 +1,6 @@
 # Programming in Haskell — Exercise Solutions
 
-My solutions to exercises from Graham Hutton's Programming in Haskell, 2nd edition.
+My solutions to exercises from Prof Graham Hutton's Programming in Haskell, 2nd edition.
 
 The solutions in this repository are my own work and are licensed under the MIT License.
 
